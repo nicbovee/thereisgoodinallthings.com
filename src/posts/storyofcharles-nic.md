@@ -60,7 +60,10 @@ Eventually you were brought back into the room in a tiny little bassinet with a 
 
 Your Grandpa "Pops", and Grandmother "Nonnie", along with your Aunt Zoe, came to the hospital around 12:30. Pops and I hugged and sobbed into one another as we both processed the situation. Nonnie wept along with Zoe and Dani on the hospital bed. Eventually they all gathered around your crib to take in the magnificence of your precious face. They would take turns holding you, and your mom and I did our best to explain the events that had taken place that evening. After an hour or two of this time, I went with your family back to the hotel that Dani and I were planning on staying in. I helped them get the car into the Valet, and went with them up to the room to collect all of your mothers things.
 
-<img src="https://res.cloudinary.com/ghettifish-llc/image/upload/a_0/v1549302184/CharlesThomas/pops.jpg" alt="Meeting Pops" width="100%" height="auto" class="image">
+<div style="display: flex; flex-direction: row; height: 500px; justify-content: space-between;">
+<img src="https://res.cloudinary.com/ghettifish-llc/image/upload/a_0/v1549302184/CharlesThomas/pops.jpg" alt="Meeting Pops" width="45%" class="image">
+<img src="https://res.cloudinary.com/ghettifish-llc/image/upload/a_0/v1549394809/CharlesThomas/IMG_5347.jpg" alt="Meeting Nonnie" width="45%" class="image">
+</div>
 
 ### Understanding what tragedy means
 In the silence of the elevator ride I thought about how different life was just a few hours earlier. My dreams for this weekend. My dreams for this month. My dreams for your first year. As I collected all of your mothers things from the hotel room, the reality set in that our life would never be the same, or even close to the way we dreamed it would be. For as long as I could think, I believed that a crime was any action by someone that effected someone else negatively. That night I learned a definition for a tragedy. A tragedy can be experienced by more than one person and is the result of an event that permanently removes one's ability to dream in specific areas of their life. There are very few things that fit this category. 
@@ -86,11 +89,14 @@ We had a facetime with your aunt Bri who through her tears and sorrow shared bea
 Everyone loved you so much.
 
 ![giginoe](giginoe.JPG)
-
+<div style="display: flex; flex-direction: row; height: 500px; justify-content: center;">
+<img src="https://res.cloudinary.com/ghettifish-llc/image/upload/a_0/v1549394809/CharlesThomas/IMG_5355.jpg" alt="Meeting Rachel" width="45%" class="image">
+</div>
 
 ### When you met Boompah
 Your Grandpa Boompah was having a hard time getting to Denver, as one thing after another seemed to make it harder and harder for him to drive there. He finally made it to Denver around 12:30 and we could hear him already making friends with the whole hospital and saying something funny to the nurse that lead him to the room. When he got in, he dropped his bag, and gave me a hug. The world around me stopped as I sobbed into my dad's shoulder. He held me up as I continued to cry telling him about how amazing you are. I could hear everyone around me weeping and eventually Gigi asked him if he was "ready to meet his grandson". "I don't know if I can" he said as eyes welled up with tears. He walked over to the basinet and stood over you taking you in. I rubbed his back and told him that he should hold him. He mentioned that when he and mom had me he was worried that "my head might roll off", and that he was feeling that a little more so with you cause you were so tiny.
 
+![Pops and Boompah](popsandboompah.jpg)
 He held you in his arms and asked the question: "What does his life mean? What do you think it stands for." I told him that I believed that your life meant that "there is good in all things."
 
 ### There is good in all things.

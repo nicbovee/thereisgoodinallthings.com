@@ -70,4 +70,7 @@ This morning we woke up at 9 am and cried some more. I asked Nic, “What do we 
 Nic and I know that Charles’ life purpose was fulfilled in the two and a half hours he was alive in our arms. He is a symbol of the good in everything. He is our joy and goodness embodied and we will always remember him that way. He is pure and he is thankfulness and he is holy. We created a beautiful human with a beautiful life purpose and we will always be impacted by his life. For such a small boy, he left a huge mark on our hearts and our lives. He confirmed our purpose of being parents and he really bonded Nic and I together during his time in our arms. I will never forget our sweet poppy- our tall, handsome, active, and precious son. The most innocent, and pure, and perfect person in our lives. We will always try to live our lives through the filter that there is goodness in every situation. Charles taught us that. As I look back, I still feel as though this is the best journey Nic and I will take. This journey lead us to Charles. This journey taught us what deep love truly is. This journey is our life. I will never stop sharing this amazing story and I will never forget our son Charles Thomas Bovee. We love you every day of forever and cannot wait to hold you in heaven. 
 
 Love, your mommy
-![We Love you](weloveyou.JPG)
+
+<div style="display: flex; flex-direction: row; height: 500px; justify-content: center;">
+    <img src="https://res.cloudinary.com/ghettifish-llc/image/upload/a_0/v1549394620/CharlesThomas/weloveyou.jpg" width="50%" alt="We Love you">
+</div>
