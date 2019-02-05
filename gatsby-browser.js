@@ -6,6 +6,7 @@
 
 // You can delete this file if you're not using it
 import React from "react";
+import styled from "styled-components";
 import {ThemeContext, themes} from './src/theme-context';
 import {Helmet} from "react-helmet";
 
