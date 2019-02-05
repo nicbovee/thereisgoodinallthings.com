@@ -11,7 +11,7 @@ On October 20th, Nic and I found out that we were pregnant with our first child.
 
 As the weeks progressed, I became obsessed with pregnancy and all of the development our baby was going through. I had three different apps, 4 different books, and I watched at least 40 YouTube videos about what to eat, what type of exercise to do (not that I did any), what type of baby clothes to buy, and what was the BEST type of stroller and car seat. I wanted my baby’s life to be perfect. I didn’t want to OVER spoil him, but I wanted him to have everything. I even researched what type of pre-school our child should eventually go to. The one thing that I was most obsessed with researching was the percentage for miscarriage at certain weeks in the pregnancy. Each week, the percentage got smaller, and it was addicting to know that I got through just one more week. When the first trimester **finally** ended, I was blissful. I thought that it was smooth sailing from there. We told the internet, took maternity pictures, and even bought our child his first stuffy and hat (though we didn’t know it was a boy). 
 
-`Put pic of deer here`
+![Deer](deer.JPG)
 
 It became so fun to dream about all of the things we would get to do with our child, like take them on their first camping trip, buy them their first lego set, teach them how to read books, ride a bike, and just watch them experience this life for the first time. We loved guessing if it was a boy or girl and everybody had a gut feeling it was a little boy in there. I finally got around to making a registry of all of the essentials that we would need and even set a date for our baby shower. It took me about 15 weeks to finally settle into the fact that “THIS WAS HAPPENING!” 
 
