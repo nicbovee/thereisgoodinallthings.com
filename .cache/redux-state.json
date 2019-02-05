@@ -670,9 +670,9 @@
         "owner": "internal-data-bridge"
       }
     },
-    "112c12f8-b222-509b-abe0-dfe93a905df9": {
+    "3f0d567d-7bcf-5b5c-b987-7edfdc6feec7": {
       "resolve": "/Users/nicolasbovee/Projects/thereisgoodinallthings.com/node_modules/gatsby-plugin-manifest",
-      "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
+      "id": "3f0d567d-7bcf-5b5c-b987-7edfdc6feec7",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.17",
       "pluginOptions": {
@@ -683,7 +683,7 @@
         "background_color": "#663399",
         "theme_color": "#663399",
         "display": "minimal-ui",
-        "icon": "src/images/gatsby-icon.png"
+        "icon": "src/favicons/favicon-32x32.png"
       },
       "nodeAPIs": [
         "onPostBootstrap"
@@ -756,7 +756,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "a49e0888cf51f5eea7a78238053e504d",
+        "contentDigest": "ba4333c7c78a5e85b2483ce7de19b412",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1170,7 +1170,7 @@
       "resolve": "/Users/nicolasbovee/Projects/thereisgoodinallthings.com",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "54b198c0f732de5a28af763b6da1430c",
+      "version": "de61c91eb12ae4e75af61e99fe24e19d",
       "pluginOptions": {
         "plugins": []
       },
@@ -1265,7 +1265,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "45716433e44eba0cd3f5980590deefb4",
+        "contentDigest": "81dcaafa4d4c7c995f0a45709c2d8d28",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1376,19 +1376,19 @@
     "Site": {
       "siteMetadata": {
         "title": "There is good in all things.",
-        "description": "A memorial to Charle Thomas Bovee",
+        "description": "A memorial to Charles Thomas Bovee",
         "author": "@nicbovee"
       },
       "port": "8000",
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-05T18:46:41.092Z",
+      "buildTime": "2019-02-05T19:05:37.540Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "98ab482f7ad050608032c96fe425d404",
+        "contentDigest": "fb78da10d65aacf757abd1151243285f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1398,7 +1398,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "4c412ad3018e69f676c468752785a9c0",
+        "contentDigest": "6f8fc73d52cfa0d88e122c1afd3a76f5",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1410,7 +1410,7 @@
       "size": 442,
       "prettySize": "442 B",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T18:46:45.000Z",
+      "accessTime": "2019-02-05T19:05:42.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -1428,11 +1428,11 @@
       "blksize": 4096,
       "ino": 39210085,
       "blocks": 0,
-      "atimeMs": 1549392405000,
+      "atimeMs": 1549393542000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T18:46:45.000Z",
+      "atime": "2019-02-05T19:05:42.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -1457,7 +1457,7 @@
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T18:40:51.000Z",
+      "accessTime": "2019-02-05T19:03:24.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -1475,11 +1475,11 @@
       "blksize": 4096,
       "ino": 39210096,
       "blocks": 48,
-      "atimeMs": 1549392051000,
+      "atimeMs": 1549393404000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T18:40:51.000Z",
+      "atime": "2019-02-05T19:03:24.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -1514,7 +1514,7 @@
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T18:40:50.000Z",
+      "accessTime": "2019-02-05T19:03:23.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -1532,11 +1532,11 @@
       "blksize": 4096,
       "ino": 39210095,
       "blocks": 328,
-      "atimeMs": 1549392050000,
+      "atimeMs": 1549393403000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T18:40:50.000Z",
+      "atime": "2019-02-05T19:03:23.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -1569,7 +1569,7 @@
       "size": 309142,
       "prettySize": "309 kB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:53.000Z",
+      "accessTime": "2019-02-05T19:03:30.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -1587,11 +1587,11 @@
       "blksize": 4096,
       "ino": 39210094,
       "blocks": 608,
-      "atimeMs": 1549385333000,
+      "atimeMs": 1549393410000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:53.000Z",
+      "atime": "2019-02-05T19:03:30.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -1616,7 +1616,7 @@
       "size": 2340740,
       "prettySize": "2.34 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:33.000Z",
+      "accessTime": "2019-02-05T19:03:22.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -1634,11 +1634,11 @@
       "blksize": 4096,
       "ino": 39210089,
       "blocks": 4576,
-      "atimeMs": 1549385313000,
+      "atimeMs": 1549393402000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:33.000Z",
+      "atime": "2019-02-05T19:03:22.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -1673,7 +1673,7 @@
       "size": 2535113,
       "prettySize": "2.54 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:33.000Z",
+      "accessTime": "2019-02-05T19:03:22.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -1691,11 +1691,11 @@
       "blksize": 4096,
       "ino": 39210088,
       "blocks": 4952,
-      "atimeMs": 1549385313000,
+      "atimeMs": 1549393402000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:33.000Z",
+      "atime": "2019-02-05T19:03:22.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -1730,7 +1730,7 @@
       "size": 2556621,
       "prettySize": "2.56 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:33.000Z",
+      "accessTime": "2019-02-05T19:03:22.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -1748,11 +1748,11 @@
       "blksize": 4096,
       "ino": 39210087,
       "blocks": 5000,
-      "atimeMs": 1549385313000,
+      "atimeMs": 1549393402000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:33.000Z",
+      "atime": "2019-02-05T19:03:22.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -1787,7 +1787,7 @@
       "size": 2682268,
       "prettySize": "2.68 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:33.000Z",
+      "accessTime": "2019-02-05T19:03:22.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -1805,11 +1805,11 @@
       "blksize": 4096,
       "ino": 39210090,
       "blocks": 5240,
-      "atimeMs": 1549385313000,
+      "atimeMs": 1549393402000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:33.000Z",
+      "atime": "2019-02-05T19:03:22.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -1844,7 +1844,7 @@
       "size": 2741683,
       "prettySize": "2.74 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:33.000Z",
+      "accessTime": "2019-02-05T19:03:22.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -1862,11 +1862,11 @@
       "blksize": 4096,
       "ino": 39210092,
       "blocks": 5360,
-      "atimeMs": 1549385313000,
+      "atimeMs": 1549393402000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:33.000Z",
+      "atime": "2019-02-05T19:03:22.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -1901,7 +1901,7 @@
       "size": 2979671,
       "prettySize": "2.98 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:33.000Z",
+      "accessTime": "2019-02-05T19:03:22.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -1919,24 +1919,14 @@
       "blksize": 4096,
       "ino": 39210093,
       "blocks": 5824,
-      "atimeMs": 1549385313000,
+      "atimeMs": 1549393402000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:33.000Z",
+      "atime": "2019-02-05T19:03:22.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
-    },
-    "0f633f49-b73e-51a1-9f46-c84deddf0926": {
-      "id": "0f633f49-b73e-51a1-9f46-c84deddf0926",
-      "children": [],
-      "parent": "5fb91a2d-45f4-5a69-b187-d5e8aad437bf",
-      "internal": {
-        "contentDigest": "4aa65c392718cf25b3b8f927ea7f2157",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "656c8985-c7cb-5644-89cc-1a3989f72b6c": {
       "id": "656c8985-c7cb-5644-89cc-1a3989f72b6c",
@@ -1958,7 +1948,7 @@
       "size": 3131658,
       "prettySize": "3.13 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:33.000Z",
+      "accessTime": "2019-02-05T19:03:22.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -1976,14 +1966,24 @@
       "blksize": 4096,
       "ino": 39210086,
       "blocks": 6120,
-      "atimeMs": 1549385313000,
+      "atimeMs": 1549393402000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:33.000Z",
+      "atime": "2019-02-05T19:03:22.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
+    },
+    "0f633f49-b73e-51a1-9f46-c84deddf0926": {
+      "id": "0f633f49-b73e-51a1-9f46-c84deddf0926",
+      "children": [],
+      "parent": "5fb91a2d-45f4-5a69-b187-d5e8aad437bf",
+      "internal": {
+        "contentDigest": "4aa65c392718cf25b3b8f927ea7f2157",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "f105c7f8-a0c1-5736-ae07-8511b3b8d6e8": {
       "id": "f105c7f8-a0c1-5736-ae07-8511b3b8d6e8",
@@ -2015,7 +2015,7 @@
       "size": 3233726,
       "prettySize": "3.23 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:33.000Z",
+      "accessTime": "2019-02-05T19:03:22.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -2033,11 +2033,11 @@
       "blksize": 4096,
       "ino": 39210091,
       "blocks": 6320,
-      "atimeMs": 1549385313000,
+      "atimeMs": 1549393402000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:33.000Z",
+      "atime": "2019-02-05T19:03:22.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -2057,7 +2057,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "be3f9856887080b4f5667a3b0eb8dd49",
+        "contentDigest": "a3d0f1d1c2fd9f8cf2ee7c8705b8752a",
         "type": "Directory",
         "description": "Directory \"src/posts\"",
         "owner": "gatsby-source-filesystem"
@@ -2069,7 +2069,7 @@
       "size": 442,
       "prettySize": "442 B",
       "modifiedTime": "2019-02-05T16:12:45.000Z",
-      "accessTime": "2019-02-05T18:46:45.000Z",
+      "accessTime": "2019-02-05T19:05:42.000Z",
       "changeTime": "2019-02-05T16:12:45.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -2087,11 +2087,11 @@
       "blksize": 4096,
       "ino": 39210101,
       "blocks": 0,
-      "atimeMs": 1549392405000,
+      "atimeMs": 1549393542000,
       "mtimeMs": 1549383165000,
       "ctimeMs": 1549383165000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T18:46:45.000Z",
+      "atime": "2019-02-05T19:05:42.000Z",
       "mtime": "2019-02-05T16:12:45.000Z",
       "ctime": "2019-02-05T16:12:45.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -2116,7 +2116,7 @@
       "size": 25539,
       "prettySize": "25.5 kB",
       "modifiedTime": "2019-02-05T16:12:45.000Z",
-      "accessTime": "2019-02-05T16:48:33.000Z",
+      "accessTime": "2019-02-05T19:03:22.000Z",
       "changeTime": "2019-02-05T16:12:45.000Z",
       "birthTime": "2019-02-05T16:12:45.000Z",
       "root": "/",
@@ -2134,11 +2134,11 @@
       "blksize": 4096,
       "ino": 39210110,
       "blocks": 56,
-      "atimeMs": 1549385313000,
+      "atimeMs": 1549393402000,
       "mtimeMs": 1549383165000,
       "ctimeMs": 1549383165000,
       "birthtimeMs": 1549383165000,
-      "atime": "2019-02-05T16:48:33.000Z",
+      "atime": "2019-02-05T19:03:22.000Z",
       "mtime": "2019-02-05T16:12:45.000Z",
       "ctime": "2019-02-05T16:12:45.000Z",
       "birthtime": "2019-02-05T16:12:45.000Z"
@@ -2163,7 +2163,7 @@
       "size": 24478,
       "prettySize": "24.5 kB",
       "modifiedTime": "2019-02-05T16:12:45.000Z",
-      "accessTime": "2019-02-05T16:48:33.000Z",
+      "accessTime": "2019-02-05T19:03:22.000Z",
       "changeTime": "2019-02-05T16:12:45.000Z",
       "birthTime": "2019-02-05T16:12:45.000Z",
       "root": "/",
@@ -2181,11 +2181,11 @@
       "blksize": 4096,
       "ino": 39210111,
       "blocks": 48,
-      "atimeMs": 1549385313000,
+      "atimeMs": 1549393402000,
       "mtimeMs": 1549383165000,
       "ctimeMs": 1549383165000,
       "birthtimeMs": 1549383165000,
-      "atime": "2019-02-05T16:48:33.000Z",
+      "atime": "2019-02-05T19:03:22.000Z",
       "mtime": "2019-02-05T16:12:45.000Z",
       "ctime": "2019-02-05T16:12:45.000Z",
       "birthtime": "2019-02-05T16:12:45.000Z"
@@ -2250,7 +2250,7 @@
       "size": 1633741,
       "prettySize": "1.63 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:44.000Z",
+      "accessTime": "2019-02-05T19:03:24.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -2268,11 +2268,11 @@
       "blksize": 4096,
       "ino": 39210104,
       "blocks": 3192,
-      "atimeMs": 1549385324000,
+      "atimeMs": 1549393404000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:44.000Z",
+      "atime": "2019-02-05T19:03:24.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -2307,7 +2307,7 @@
       "size": 2460333,
       "prettySize": "2.46 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:38.000Z",
+      "accessTime": "2019-02-05T19:03:24.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -2325,11 +2325,11 @@
       "blksize": 4096,
       "ino": 39210107,
       "blocks": 4808,
-      "atimeMs": 1549385318000,
+      "atimeMs": 1549393404000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:38.000Z",
+      "atime": "2019-02-05T19:03:24.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -2364,7 +2364,7 @@
       "size": 3109839,
       "prettySize": "3.11 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:36.000Z",
+      "accessTime": "2019-02-05T19:03:24.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -2382,11 +2382,11 @@
       "blksize": 4096,
       "ino": 39210108,
       "blocks": 6080,
-      "atimeMs": 1549385316000,
+      "atimeMs": 1549393404000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:36.000Z",
+      "atime": "2019-02-05T19:03:24.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -2421,7 +2421,7 @@
       "size": 3240703,
       "prettySize": "3.24 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:42.000Z",
+      "accessTime": "2019-02-05T19:03:24.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -2439,11 +2439,11 @@
       "blksize": 4096,
       "ino": 39210103,
       "blocks": 6336,
-      "atimeMs": 1549385322000,
+      "atimeMs": 1549393404000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:42.000Z",
+      "atime": "2019-02-05T19:03:24.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -2478,7 +2478,7 @@
       "size": 3507633,
       "prettySize": "3.51 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:45.000Z",
+      "accessTime": "2019-02-05T19:03:24.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -2496,24 +2496,14 @@
       "blksize": 4096,
       "ino": 39210106,
       "blocks": 6856,
-      "atimeMs": 1549385325000,
+      "atimeMs": 1549393404000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:45.000Z",
+      "atime": "2019-02-05T19:03:24.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
-    },
-    "f6d69b71-bdae-57cf-b8e2-dba65669c088": {
-      "id": "f6d69b71-bdae-57cf-b8e2-dba65669c088",
-      "children": [],
-      "parent": "b84004b5-5246-588d-99dd-c3f04ee4c5cb",
-      "internal": {
-        "contentDigest": "fe614e53b76b195ac7c95643c7d4b218",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "b13b2a87-d427-5379-8719-5479a2c6983d": {
       "id": "b13b2a87-d427-5379-8719-5479a2c6983d",
@@ -2535,7 +2525,7 @@
       "size": 3544624,
       "prettySize": "3.54 MB",
       "modifiedTime": "2019-02-05T16:12:45.000Z",
-      "accessTime": "2019-02-05T16:48:33.000Z",
+      "accessTime": "2019-02-05T19:03:22.000Z",
       "changeTime": "2019-02-05T16:12:45.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -2553,14 +2543,24 @@
       "blksize": 4096,
       "ino": 39210109,
       "blocks": 6928,
-      "atimeMs": 1549385313000,
+      "atimeMs": 1549393402000,
       "mtimeMs": 1549383165000,
       "ctimeMs": 1549383165000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:33.000Z",
+      "atime": "2019-02-05T19:03:22.000Z",
       "mtime": "2019-02-05T16:12:45.000Z",
       "ctime": "2019-02-05T16:12:45.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
+    },
+    "f6d69b71-bdae-57cf-b8e2-dba65669c088": {
+      "id": "f6d69b71-bdae-57cf-b8e2-dba65669c088",
+      "children": [],
+      "parent": "b84004b5-5246-588d-99dd-c3f04ee4c5cb",
+      "internal": {
+        "contentDigest": "fe614e53b76b195ac7c95643c7d4b218",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "bee5a13b-f195-55c4-9f14-02587b79ca78": {
       "id": "bee5a13b-f195-55c4-9f14-02587b79ca78",
@@ -2592,7 +2592,7 @@
       "size": 4166332,
       "prettySize": "4.17 MB",
       "modifiedTime": "2019-02-05T16:12:45.000Z",
-      "accessTime": "2019-02-05T16:48:39.000Z",
+      "accessTime": "2019-02-05T19:03:24.000Z",
       "changeTime": "2019-02-05T16:12:45.000Z",
       "birthTime": "2019-02-05T16:12:45.000Z",
       "root": "/",
@@ -2610,24 +2610,14 @@
       "blksize": 4096,
       "ino": 39210112,
       "blocks": 8144,
-      "atimeMs": 1549385319000,
+      "atimeMs": 1549393404000,
       "mtimeMs": 1549383165000,
       "ctimeMs": 1549383165000,
       "birthtimeMs": 1549383165000,
-      "atime": "2019-02-05T16:48:39.000Z",
+      "atime": "2019-02-05T19:03:24.000Z",
       "mtime": "2019-02-05T16:12:45.000Z",
       "ctime": "2019-02-05T16:12:45.000Z",
       "birthtime": "2019-02-05T16:12:45.000Z"
-    },
-    "355a5848-da65-53c0-a84a-e284f3efe084": {
-      "id": "355a5848-da65-53c0-a84a-e284f3efe084",
-      "children": [],
-      "parent": "e259f6b1-b257-54ec-ad4b-3332414d918f",
-      "internal": {
-        "contentDigest": "51b6854342e8cc287ff595ff2b8a9cad",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "69ac3525-90b1-5531-97fa-13cb68f29646": {
       "id": "69ac3525-90b1-5531-97fa-13cb68f29646",
@@ -2649,7 +2639,7 @@
       "size": 4224860,
       "prettySize": "4.22 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:33.000Z",
+      "accessTime": "2019-02-05T19:03:22.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -2667,14 +2657,24 @@
       "blksize": 4096,
       "ino": 39210105,
       "blocks": 8256,
-      "atimeMs": 1549385313000,
+      "atimeMs": 1549393402000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:33.000Z",
+      "atime": "2019-02-05T19:03:22.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
+    },
+    "355a5848-da65-53c0-a84a-e284f3efe084": {
+      "id": "355a5848-da65-53c0-a84a-e284f3efe084",
+      "children": [],
+      "parent": "e259f6b1-b257-54ec-ad4b-3332414d918f",
+      "internal": {
+        "contentDigest": "51b6854342e8cc287ff595ff2b8a9cad",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "7920faf5-167d-535d-9f01-f63ddb75b3f7": {
       "id": "7920faf5-167d-535d-9f01-f63ddb75b3f7",
@@ -2706,7 +2706,7 @@
       "size": 4342658,
       "prettySize": "4.34 MB",
       "modifiedTime": "2019-02-05T16:12:44.000Z",
-      "accessTime": "2019-02-05T16:48:46.000Z",
+      "accessTime": "2019-02-05T19:03:24.000Z",
       "changeTime": "2019-02-05T16:12:44.000Z",
       "birthTime": "2019-02-05T16:12:44.000Z",
       "root": "/",
@@ -2724,11 +2724,11 @@
       "blksize": 4096,
       "ino": 39210102,
       "blocks": 8488,
-      "atimeMs": 1549385326000,
+      "atimeMs": 1549393404000,
       "mtimeMs": 1549383164000,
       "ctimeMs": 1549383164000,
       "birthtimeMs": 1549383164000,
-      "atime": "2019-02-05T16:48:46.000Z",
+      "atime": "2019-02-05T19:03:24.000Z",
       "mtime": "2019-02-05T16:12:44.000Z",
       "ctime": "2019-02-05T16:12:44.000Z",
       "birthtime": "2019-02-05T16:12:44.000Z"
@@ -2866,7 +2866,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "e9f30c71a6fcd8338f649873a2c4d6a6"
+    "PLUGINS_HASH": "6612ced0378ec8a187bf2948dbe144f3"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -2928,14 +2928,6 @@
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-layout-js": {
-      "name": "SiteTitleQuery",
-      "componentPath": "/Users/nicolasbovee/Projects/thereisgoodinallthings.com/src/components/layout.js",
-      "id": "sq--src-components-layout-js",
-      "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
-      "hash": 755544856
-    },
     "sq--src-components-image-js": {
       "name": "usersNicolasboveeProjectsThereisgoodinallthingsComSrcComponentsImageJs2011440971",
       "componentPath": "/Users/nicolasbovee/Projects/thereisgoodinallthings.com/src/components/image.js",
@@ -2943,6 +2935,14 @@
       "jsonName": "sq--src-components-image-js",
       "query": "query usersNicolasboveeProjectsThereisgoodinallthingsComSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 2011440971
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/nicolasbovee/Projects/thereisgoodinallthings.com/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
     },
     "sq--src-components-seo-js": {
       "name": "DefaultSEOQuery",

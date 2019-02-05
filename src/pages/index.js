@@ -75,6 +75,7 @@ class IndexPage extends React.Component {
     return (
       <Layout {...props}>
         <SEO title="Home" keywords={[`Charles Thomas Bovee`, `Premature Birth`, `Working through the loss of an infant`]} />
+        
         <h1>A memorial of Charles Thomas Bovee</h1>
         <p>Born, loved, and passed on February 1st, 2019</p>
         {theme.showPictures && 
