@@ -9,6 +9,57 @@ import {ThemeContext} from "../theme-context";
 import ImageToggler from "../components/ImageToggler";
 import poppies from "../images/charlies-poppies.svg";
 
+
+const ButtonWrapper = styled.div`
+display:flex;
+flex-direction: row;
+justify-content: space-around;
+width: 100%;
+margin: 150px 0;
+`
+
+const PlantPoppy = styled.div`
+display: flex;
+min-height: 400px;
+flex-direction: column;
+justify-content: center;
+`
+const ActionButton = styled.button`
+display:flex;
+justify-content: center;
+max-width: 200px;
+background: #5095ea;
+color: white;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+border: none;
+padding: 15px 20px;
+border-radius: 50px;
+text-decoration: none;
+transition: all ease-in-out 200ms;
+cursor: pointer;
+:hover {
+  background: #b0cff7;
+  color: #5095ea; 
+}
+`
+const Button = styled(Link)`
+display:flex;
+justify-content: center;
+max-width: 200px;
+background: #5095ea;
+color: white;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+border: none;
+padding: 15px 20px;
+border-radius: 50px;
+text-decoration: none;
+transition: all ease-in-out 200ms;
+:hover {
+  background: #b0cff7;
+  color: #5095ea; 
+}
+`
+
 class IndexPage extends React.Component {
   state = {
     poppyPlanting: false,
@@ -109,52 +160,3 @@ const PlantPoppyTrigger = (callback) => {
 }
 IndexPage.contextType = ThemeContext;
 export default IndexPage;
-const ButtonWrapper = styled.div`
-display:flex;
-flex-direction: row;
-justify-content: space-around;
-width: 100%;
-margin: 150px 0;
-`
-
-const PlantPoppy = styled.div`
-display: flex;
-min-height: 400px;
-flex-direction: column;
-justify-content: center;
-`
-const ActionButton = styled.button`
-display:flex;
-justify-content: center;
-max-width: 200px;
-background: #5095ea;
-color: white;
-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-border: none;
-padding: 15px 20px;
-border-radius: 50px;
-text-decoration: none;
-transition: all ease-in-out 200ms;
-cursor: pointer;
-:hover {
-  background: #b0cff7;
-  color: #5095ea; 
-}
-`
-const Button = styled(Link)`
-display:flex;
-justify-content: center;
-max-width: 200px;
-background: #5095ea;
-color: white;
-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-border: none;
-padding: 15px 20px;
-border-radius: 50px;
-text-decoration: none;
-transition: all ease-in-out 200ms;
-:hover {
-  background: #b0cff7;
-  color: #5095ea; 
-}
-`

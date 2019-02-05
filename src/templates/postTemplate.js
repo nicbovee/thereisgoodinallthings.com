@@ -5,27 +5,7 @@ import SEO from "../components/seo";
 import {ThemeContext} from "../theme-context";
 import styled from "styled-components";
 
-class Template extends React.Component {
-  render() {
-    const { markdownRemark } = this.props.data;
-    const {frontmatter, html } = markdownRemark;
-    let theme = this.context;
-    console.log(theme);
-    return (
-      <StyledDiv showPictures={theme.showPictures}>
-          <Layout>
-            <SEO title={frontmatter.title} keywords={[`gatsby`, `application`, `react`]} />
-            <h1>{frontmatter.title}</h1>         
-            <p>By {frontmatter.author}</p> 
-            <div dangerouslySetInnerHTML={{__html: html}} />
-          </Layout>
-      </StyledDiv>
-    )
-  };
-};
 
-Template.contextType = ThemeContext;
-export default Template;
 const StyledDiv = styled.div`
   ${props => {
     if(!props.showPictures){
@@ -55,3 +35,26 @@ export const pageQuery = graphql`
     }
   }
 `
+
+
+class Template extends React.Component {
+  render() {
+    const { markdownRemark } = this.props.data;
+    const {frontmatter, html } = markdownRemark;
+    let theme = this.context;
+    console.log(theme);
+    return (
+      <StyledDiv showPictures={theme.showPictures}>
+          <Layout>
+            <SEO title={frontmatter.title} keywords={[`gatsby`, `application`, `react`]} />
+            <h1>{frontmatter.title}</h1>         
+            <p>By {frontmatter.author}</p> 
+            <div dangerouslySetInnerHTML={{__html: html}} />
+          </Layout>
+      </StyledDiv>
+    )
+  };
+};
+
+Template.contextType = ThemeContext;
+export default Template;
