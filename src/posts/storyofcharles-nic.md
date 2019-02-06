@@ -33,7 +33,7 @@ Up until this point I had stayed hopeful. My hope was that they could find a way
 
 It wasn't a wail, but an uncontrollable heaving. My face was buried into your mother's pillow, and my hat fell off of my head. The dreams of holding you in my arms were gone. My imagination of you experience life for the first time was replaced with a feeling of wishing my life had never happened. I thought it would never end. It was truly the most pain, I've ever experienced in my entire life. 
 
-You were born at 8:05pm in St. Luke's hospital on February 2nd, 2019.
+You were born at 8:05pm in St. Luke's hospital on February 1st, 2019.
 ![Meeting you for the first time](firsttime.JPG)
 ### After you were born.
 I never thought anyone was ready to be a parent. I thought that I would really never be ready, and that this feeling of being unprepared was just part of having children. Any fear I had, or feeling of not being ready dissolved the moment I saw your face for the first time.
