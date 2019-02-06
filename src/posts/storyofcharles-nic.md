@@ -60,9 +60,9 @@ Eventually you were brought back into the room in a tiny little bassinet with a 
 
 Your Grandpa "Pops", and Grandmother "Nonnie", along with your Aunt Zoe, came to the hospital around 12:30. Pops and I hugged and sobbed into one another as we both processed the situation. Nonnie wept along with Zoe and Dani on the hospital bed. Eventually they all gathered around your crib to take in the magnificence of your precious face. They would take turns holding you, and your mom and I did our best to explain the events that had taken place that evening. After an hour or two of this time, I went with your family back to the hotel that Dani and I were planning on staying in. I helped them get the car into the Valet, and went with them up to the room to collect all of your mothers things.
 
-<div style="display: flex; flex-direction: row; height: 500px; justify-content: space-between;">
-<img src="https://res.cloudinary.com/ghettifish-llc/image/upload/a_0/v1549302184/CharlesThomas/pops.jpg" alt="Meeting Pops" width="45%" class="image">
-<img src="https://res.cloudinary.com/ghettifish-llc/image/upload/a_0/v1549394809/CharlesThomas/IMG_5347.jpg" alt="Meeting Nonnie" width="45%" class="image">
+<div class="flex-container">
+<img src="https://res.cloudinary.com/ghettifish-llc/image/upload/a_0/v1549302184/CharlesThomas/pops.jpg" alt="Meeting Pops" class="image">
+<img src="https://res.cloudinary.com/ghettifish-llc/image/upload/a_0/v1549394809/CharlesThomas/IMG_5347.jpg" alt="Meeting Nonnie" class="image">
 </div>
 
 ### Understanding what tragedy means
@@ -89,7 +89,7 @@ We had a facetime with your aunt Bri who through her tears and sorrow shared bea
 Everyone loved you so much.
 
 ![giginoe](giginoe.JPG)
-<div style="display: flex; flex-direction: row; height: 500px; justify-content: center;">
+<div class="flex-container">
 <img src="https://res.cloudinary.com/ghettifish-llc/image/upload/a_0/v1549394809/CharlesThomas/IMG_5355.jpg" alt="Meeting Rachel" width="45%" class="image">
 </div>
 

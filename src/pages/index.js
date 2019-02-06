@@ -19,6 +19,8 @@ margin: 150px 0;
 `
 
 const PlantPoppy = styled.div`
+background: #c7dbf3;
+padding: 25px;
 display: flex;
 min-height: 400px;
 flex-direction: column;
@@ -76,7 +78,7 @@ class IndexPage extends React.Component {
       <Layout {...props}>
         <SEO title="Home" keywords={[`Charles Thomas Bovee`, `Premature Birth`, `Working through the loss of an infant`]} />
         
-        <h1>A memorial of Charles Thomas Bovee</h1>
+        <h1>A memorial for Charles Thomas Bovee</h1>
         <p>Born, loved, and passed on February 1st, 2019</p>
         {theme.showPictures && 
           <ImageMasonry
@@ -93,7 +95,7 @@ class IndexPage extends React.Component {
             numCols={3}
           />
         }
-        <p>This site features some photography of our premature son that may trigger some people. You can choose to leave these Photos out, or click this button to include them.
+        <p>This site features some photography of our premature son that may trigger some people. You can use this site with or without photos.
           <ImageToggler />
         </p>
         <ButtonWrapper>
@@ -110,6 +112,7 @@ class IndexPage extends React.Component {
           <div>
             <img src={poppies} style={{
               opacity: this.state.poppyPlanted ? 1 : 0,
+              display: this.state.poppyPlanted ? "block" : "none",
               transition: "opacity ease-in-out 1000ms",
               maxWidth: 100
             }}/>

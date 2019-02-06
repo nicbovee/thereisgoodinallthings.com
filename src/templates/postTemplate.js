@@ -22,6 +22,10 @@ const StyledDiv = styled.div`
     }
   }}
 `
+
+const Author = styled.span`
+  color: rgb(80, 149, 234);
+`
 export const pageQuery = graphql`
   query($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
@@ -48,7 +52,7 @@ class Template extends React.Component {
           <Layout>
             <SEO title={frontmatter.title} keywords={[`gatsby`, `application`, `react`]} />
             <h1>{frontmatter.title}</h1>         
-            <p>By {frontmatter.author}</p> 
+            <p>By <Author>{frontmatter.author}</Author></p> 
             <div dangerouslySetInnerHTML={{__html: html}} />
           </Layout>
       </StyledDiv>
