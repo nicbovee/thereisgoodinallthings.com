@@ -39,6 +39,7 @@ const Header = ({ siteTitle }) => (
         <ul>
           <li><Link className="nav__link" to="/posts/nics-story-of-charles">Nic's Story</Link></li>
           <li><Link className="nav__link" to="/posts/danis-story-of-charles">Dani's Story</Link></li>
+          <li><Link className="nav__link" to="/posts/speeches">Words</Link></li>
         </ul>
       </nav>
     </div>

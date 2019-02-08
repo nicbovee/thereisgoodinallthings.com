@@ -652,11 +652,11 @@ pre tt:after {
   align-items: center;
 }
 .nav ul {
+  width: 80%;
   list-style-type: none;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 225px;
   align-items: center;
   margin-bottom: 0;
   margin-block-end: 0;

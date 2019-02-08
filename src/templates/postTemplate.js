@@ -31,7 +31,6 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
         path
         title
         author
@@ -46,7 +45,6 @@ class Template extends React.Component {
     const { markdownRemark } = this.props.data;
     const {frontmatter, html } = markdownRemark;
     let theme = this.context;
-    console.log(theme);
     return (
       <StyledDiv showPictures={theme.showPictures}>
           <Layout>

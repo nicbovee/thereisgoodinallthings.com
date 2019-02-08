@@ -33,5 +33,10 @@
         "componentChunkName": "component---src-templates-post-template-js",
         "jsonName": "posts-nics-story-of-charles-ee0",
         "path": "/posts/nics-story-of-charles"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "jsonName": "posts-speeches-f34",
+        "path": "/posts/speeches"
     }
 ]

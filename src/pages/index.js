@@ -10,6 +10,8 @@ import ImageToggler from "../components/ImageToggler";
 import poppies from "../images/charlies-poppies.svg";
 
 
+
+
 const ButtonWrapper = styled.div`
 display:flex;
 flex-direction: row;
@@ -66,17 +68,29 @@ class IndexPage extends React.Component {
   state = {
     poppyPlanting: false,
     poppyPlanted: false,
+    numberOfPoppies: 0,
   }
 
   togglePoppyPlanting = () => {
     this.setState({poppyPlanging: !this.state.poppyPlanting})
   }
+
+  componentDidMount() {
+    const create = (data) => {
+      const readAll = () => {
+        return fetch('/.netlify/functions/CountPoppies').then((response) => {
+          return response.json()
+        })
+      }
+    }
+  }
+
   render() {
     let props = this.props;
     let theme = this.context;
     return (
       <Layout {...props}>
-        <SEO title="Home" keywords={[`Charles Thomas Bovee`, `Premature Birth`, `Working through the loss of an infant`]} />
+        <SEO title="There is good in all things." keywords={[`Charles Thomas Bovee`, `Premature Birth`, `Working through the loss of an infant`]} />
         
         <h1>A memorial for Charles Thomas Bovee</h1>
         <p>Born, loved, and passed on February 1st, 2019</p>
