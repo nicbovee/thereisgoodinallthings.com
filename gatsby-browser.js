@@ -32,14 +32,6 @@ class RootProvider extends React.Component {
           <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#ffffff" />
           <meta name="msapplication-TileColor" content="#ffffff" />
           <meta name="theme-color" content="#ffffff" />
-          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134231312-1"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments)}
-            gtag('js', new Date());
-
-            gtag('config', 'UA-134231312-1');
-          </script>
         </Helmet>
         {this.props.children}
       </ThemeContext.Provider>
